@@ -3,10 +3,10 @@
 Meu nome é **Lyslen Miranda**, tenho 23 anos, e sou **formada em Design Gráfico** pela Universidade Federal de Sergipe, **com experiência na área**.
 
 ## Interesses
-Durante minha graduação, enquanto desenvolvia meu Trabalho de Conclusão de Curso, descobri meu interesse em **criar interfaces de websites**.
+Durante minha graduação, enquanto desenvolvia meu Trabalho de Conclusão de Curso, descobri meu **interesse em criar interfaces de websites**.
 
 ## Cursos
-Atualmente, estou dedicando meu tempo a um curso de **Desenvolvimento Front-end na @VainaWeb**, pois acredito que esse conhecimento é fundamental para, no futuro, dar vida às interfaces idealizadas.
+Atualmente, estou **cursando Desenvolvimento Front-end na @VainaWeb**, pois acredito que esse conhecimento é fundamental para, no futuro, dar vida às interfaces idealizadas.
 
 ## Aprendendo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
