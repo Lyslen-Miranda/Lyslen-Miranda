@@ -1,10 +1,15 @@
-<h1>Olá! Bem-vindo ao meu perfil</h4>
-<p> Meu nome é Lyslen Miranda, tenho 23 anos, e sou formada em Design Gráfico pela Universidade Federal de Sergipe, com experiência na área. </p>
+<h1>Olá! Bem-vindo ao meu perfil</h1>
+<p> 
+Meu nome é Lyslen Miranda, tenho 23 anos, e sou formada em Design Gráfico pela Universidade Federal de Sergipe, com experiência na área.
+</p>
 
 <h2>Interesses</h2>
-<p>Durante minha graduação, enquanto desenvolvia meu Trabalho de Conclusão de Curso, descobri meu interesse em criar interfaces de websites.</p>
+<p>
+Durante minha graduação, enquanto desenvolvia meu Trabalho de Conclusão de Curso, descobri meu interesse em criar interfaces de websites.
+</p>
 
 <h2>Cursos</h2>
+<p>
 Atualmente, estou dedicando meu tempo a um curso de Desenvolvimento Front-end na @VainaWeb, pois acredito que esse conhecimento é fundamental para, no futuro, dar vida às interfaces idealizadas.
 </p>
 
