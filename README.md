@@ -1,6 +1,6 @@
 # Olá! Bem-vindo ao meu perfil
 
-**Meu nome é Lyslen Miranda**, tenho 23 anos, e **sou formada em Design Gráfico** pela Universidade Federal de Sergipe, **com experiência na área**.
+**Meu nome é Lyslen Miranda**, tenho 24 anos, e **sou formada em Design Gráfico** pela Universidade Federal de Sergipe, **com experiência na área**.
 
 ## Interesses
 Durante minha graduação, enquanto desenvolvia meu Trabalho de Conclusão de Curso, descobri meu **interesse em criar interfaces de websites**.
