@@ -10,7 +10,6 @@ Atualmente, estou **cursando Desenvolvimento Front-end na @VainaWeb**, pois acre
 
 ## IDEs
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![CODESANDBOX](https://img.shields.io/badge/CodeSandbox-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white)
 
 ## Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
