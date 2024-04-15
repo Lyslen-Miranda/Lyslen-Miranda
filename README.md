@@ -6,7 +6,7 @@
 Durante minha graduação, enquanto desenvolvia meu Trabalho de Conclusão de Curso, descobri meu **interesse em criar interfaces de websites**.
 
 ## Cursos
-Atualmente, estou **cursando Desenvolvimento Front-end na @VainaWeb**, pois acredito que esse conhecimento é fundamental para, no futuro, dar vida às interfaces idealizadas.
+Fiz um **curso de Desenvolvimento Front-end na @VainaWeb**, pois acredito que esse conhecimento é fundamental para dar vida às interfaces idealizadas.
 
 ## IDEs
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
