@@ -2,11 +2,8 @@
 
 **Meu nome é Lyslen Miranda**, tenho 24 anos, e **sou formada em Design Gráfico** pela Universidade Federal de Sergipe, **com experiência na área**.
 
-## Interesses
-Durante minha graduação, enquanto desenvolvia meu Trabalho de Conclusão de Curso, descobri meu **interesse em criar interfaces de websites**.
-
 ## Cursos
-Fiz um **curso de Desenvolvimento Front-end na @VainaWeb**, pois acredito que esse conhecimento é fundamental para dar vida às interfaces idealizadas.
+Fiz um **curso de Desenvolvimento Front-end na @VainaWeb**, pois acredito que esse conhecimento é fundamental para dar vida à interfaces caso eu venha a idealizá-las.
 
 ## IDE que estou mais familiarizada
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
